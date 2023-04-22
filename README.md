@@ -1,3 +1,7 @@
+## live server
+
+[server link](https://tornikesamkharadze-github-users.netlify.app/login)
+
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
@@ -38,7 +42,3 @@ In order for routing to work on netlify, redirects was added to the public folde
 ```
 
 [Redirects Blog Post](https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc)
-
-## live server
-
-[server link](https://tornikesamkharadze-github-users.netlify.app/login)
